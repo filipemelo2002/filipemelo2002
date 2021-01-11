@@ -7,7 +7,7 @@
 </a>
 <br >
 
-**:briefcase: Current position:** Software Developter Inter at [Salvus.me](https://salvus.me/)
+**:briefcase: Current position:** Software Development Intern at [Salvus.me](https://salvus.me/)
 
 #### Skills and tools :computer:
 
