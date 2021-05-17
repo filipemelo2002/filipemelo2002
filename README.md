@@ -7,7 +7,7 @@
 </a>
 <br >
 
-**:briefcase: Current position:** Software Development Intern at [Salvus.me](https://salvus.me/)
+**:briefcase: Current position:** Associate Software Developer at [Liferay](https://liferay.com/)
 
 #### Skills and tools :computer:
 
@@ -39,6 +39,18 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
+<a href="https://github.com/filipemelo2002">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>
+
+<a href="https://github.com/filipemelo2002">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+
+<a href="https://github.com/filipemelo2002">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+
 #### Languages :speaking_head:
 - **Portuguese:** First Language
 - **English:** Advanced
@@ -46,10 +58,10 @@
 #### Currently Studying :books:
 
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </a>
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </a>
 
 #### Github status :octocat: 
