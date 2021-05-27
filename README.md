@@ -58,10 +58,10 @@
 #### Currently Studying :books:
 
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSGi_Framework-FAC889?style=for-the-badge&logo=java&logoColor=black" />
 </a>
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 
 #### Github status :octocat: 
