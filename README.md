@@ -1,13 +1,17 @@
 #### Hello, I'm Filipe :sparkler:
+
 <a href="https://github.com/filipemelo2002">
   <img src="https://komarev.com/ghpvc/?username=filipemelo2002&style=flat-square" />
+</a>
+<a href="https://github.com/filipemelo2002">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffilipemelo20021212%2Fhit-counter" />
 </a>
 <a href="https://github.com/filipemelo2002">
   <img src="https://img.shields.io/github/followers/filipemelo2002?style=social" />
 </a>
 <br >
 
-**:briefcase: Current position:** Associate Software Developer at [Liferay](https://liferay.com/)
+**:briefcase: Current position:** Software Developer at [Liferay](https://liferay.com/)
 
 #### Skills and tools :computer:
 
@@ -68,4 +72,10 @@
 <br>
 <a href="https://github.com/filipemelo2002">
   <img src="https://github-readme-stats.vercel.app/api?username=filipemelo2002&show_icons=true&hide_border=true" />
+</a>
+
+#### 🔥 GitHub Readme Streak Stats
+
+<a href="https://github.com/filipemelo2002">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipemelo2002&date_format=j%20M%5B%20Y%5D" />
 </a>
