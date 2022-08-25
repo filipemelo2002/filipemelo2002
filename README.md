@@ -11,7 +11,7 @@
 </a>
 <br >
 
-**:briefcase: Current position:** Software Developer at [Liferay](https://liferay.com/)
+**:briefcase: Current position:** Software Engineer at [Liferay](https://liferay.com/)
 
 #### Skills and tools :computer:
 
