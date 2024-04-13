@@ -62,10 +62,10 @@
 #### Currently Studying :books:
 
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
 </a>
 
 #### Github status :octocat: 
