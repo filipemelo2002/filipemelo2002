@@ -62,7 +62,7 @@
 #### Currently Studying :books:
 
 <a href="https://github.com/filipemelo2002">
-  <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-aws%20EC2-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://github.com/filipemelo2002">
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
