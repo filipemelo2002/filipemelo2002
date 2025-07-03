@@ -11,8 +11,6 @@
 </a>
 <br >
 
-**:briefcase: Current position:** Software Engineer at [Encora](https://www.encora.com/)
-
 #### Skills and tools :computer:
 
 <a href="https://github.com/filipemelo2002">
